@@ -52,6 +52,22 @@ button.login_button {
   margin-bottom: -20px;
 }
 
+#login .login_button {
+  position: relative;
+  float: right;
+  height: 36px;
+  width: auto;
+  padding: 5px 10px;
+  border-radius: 10px;
+  background-color: #666666;
+  border-width: 3px;
+  margin-bottom: -20px;
+  color: #fff;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}
+
 div div a {
   color: black;
 }
