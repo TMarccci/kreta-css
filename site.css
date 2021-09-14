@@ -1,0 +1,169 @@
+span.head-sidebar-tab-item {
+  border-radius: 10px;
+  background-color: #434343;
+}
+
+ul li span {
+  border-radius: 10px;
+  margin-top: -8px;
+}
+
+li.sidebar-tab-item.disabled {
+  border-radius: 10px;
+}
+
+div.subject {
+  margin-top: -2px;
+  border-radius: 10px;
+  background-color: #434343;
+}
+
+div.nb-content.col-xs-9 {
+  border-radius: 10px;
+  background-color: gray;
+  color: white;
+}
+
+div.nb-circle {
+  background-color: gray;
+}
+
+a.navbar-brand {
+  background-color: #434343;
+}
+
+ul li a {
+  background-color: #434343;
+  border-radius: 10px;
+  color: white;
+  margin-bottom: 3px;
+}
+
+div.navbar-collapse.collapse {
+  background-color: #434343;
+}
+
+div.navbar-header {
+  background-color: #434343;
+}
+
+div.navbar {
+  background-color: #434343;
+}
+
+nav.navbar {
+  background-color: #434343;
+}
+
+div.row {
+  margin-bottom: 3px;
+}
+
+#layout_organizationName {
+  color: black;
+}
+
+div.selectTanev {
+  color: black;
+  margin-left: 100px;
+}
+
+div.main-footer2 {
+  background-color: #666666;
+  color: white;
+}
+
+div.a {
+  border-radius: 10px;
+}
+
+a.dropdown-toggle {
+  border-radius: 10px;
+}
+
+ul.dropdown-menu.megamenu.row {
+  background-color: #999999;
+}
+
+input.k-button.k-button-icontext {
+  border-radius: 8px;
+}
+
+button.k-button.k-button-icontext {
+  border-radius: 5px;
+  background-color: #666666;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+ul.dropdown-menu {
+  background-color: #999999;
+  margin-top: -5px;
+}
+
+div.content-content {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+div.main-content {
+  border-radius: 10px;
+}
+
+button.fc-prev-button.fc-button.fc-state-default.fc-corner-left {
+  margin-top: 10px;
+}
+
+button.fc-next-button.fc-button.fc-state-default.fc-corner-right {
+  margin-top: 10px;
+}
+
+button.fc-today-button.fc-button.fc-state-default.fc-corner-right {
+  margin-top: 10px;
+}
+
+button.fc-agendaDay-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
+  margin-top: 10px;
+}
+
+button.fc-workWeek-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right.fc-state-active {
+  margin-top: 10px;
+}
+
+button.fc-workWeekWithSaturday-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
+  margin-top: 10px;
+}
+
+button.fc-agendaWeek-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
+  margin-top: 10px;
+}
+
+button.fc-button.fc-state-default.fc-corner-left.fc-corner-right.nfs {
+  margin-top: 10px;
+}
+
+th.fc-widget-header.fc-tue.fc-day-header-today {
+  background-color: #434343;
+}
+
+a.fc-time-grid-event.fc-v-event.fc-event.fc-start.fc-end {
+  background-color: #666666;
+  border-color: black;
+  border-width: 1.5px;
+}
+
+div.fc-title {
+  margin-top: 2px;
+}
+
+button.fc-workWeek-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
+  margin-top: 10px;
+}
+
+button.fc-button.fc-state-default.fc-corner-left.fc-corner-right.fs {
+  margin-top: 10px;
+}
+
+div.col-xs-12.main.faliujsagLista {
+  border-radius: 10px;
+}

@@ -1,0 +1,74 @@
+div.login_header {
+  border-radius: 10px;
+  background-color: #474747;
+  border-color: #474747;
+  border-width: 3px;
+}
+
+div.logout_header {
+  border-radius: 10px;
+  background-color: #474747;
+  border-color: #474747;
+  border-width: 3px;
+}
+
+a.PostLogoutRedirectUri.redirect_button {
+  border-radius: 10px;
+  background-color: #666666;
+  border-width: 3px;
+  color: white;
+}
+
+div.login_systemmessage_container {
+  border-radius: 10px;
+  border-color: #474747;
+  border-width: 3px;
+}
+
+div.panel.panel-default {
+  border-radius: 12px;
+  border-color: white;
+  border-width: 2px;
+}
+
+body {
+  background-image: url("https://wallpaperaccess.com/full/32822.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #666666;
+  background-size: cover;
+}
+
+div.login_systemmessage_header {
+  background-color: #474747;
+  border-color: #474747;
+  border-width: 3px;
+}
+
+button.login_button {
+  border-radius: 10px;
+  background-color: #666666;
+  border-width: 3px;
+  margin-bottom: -20px;
+}
+
+div div a {
+  color: black;
+}
+
+div.col-sm-offset-3.col-sm-6 {
+  border-radius: 10px;
+}
+
+input.k-textbox {
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+footer div div {
+  color: black;
+}
+
+div.container.main-footer {
+  margin-top: 20px;
+}

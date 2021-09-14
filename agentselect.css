@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://i.imgur.com/BdPMeg8.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #666666;
+    background-size: cover;
+  }
+  
+  div.Box-Icon {
+    border-radius: 10px;
+  }
+  
+  div.Box-Text {
+    border-radius: 10px;
+    margin-top: -15px;
+  }
+  
+  div.Box-Icon.DktIcon {
+    border-radius: 10px;
+  }
+  
+  div.Box-Item {
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px -2px rgb(56 56 56);
+  }
+  
+  a.Box-Item {
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px -2px rgb(56 56 56);
+  }
+  
+  img.UserImg {
+    margin-right: 5px;
+  }
+  
+  div.UserName {
+    margin-right: 10px;
+  }
+  
+  div.IntezmenyNev {
+    color: black;
+  }
+  
+  div.Box-Container {
+    margin-top: -200px;
+    box-shadow: none;
+  }
