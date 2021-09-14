@@ -9,6 +9,8 @@
 // @resource   IMPORTED_CSS https://raw.githubusercontent.com/TMarccci/kreta-css/main/site.css
 // @grant      GM_getResourceText
 // @grant      GM_addStyle
+// @updateURL  https://raw.githubusercontent.com/TMarccci/kreta-css/main/site.js
+// @downloadURL https://raw.githubusercontent.com/TMarccci/kreta-css/main/site.js
 // ==/UserScript==
 
 
