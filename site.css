@@ -1,169 +1,169 @@
 span.head-sidebar-tab-item {
-  border-radius: 10px;
-  background-color: #434343;
+  border-radius: 10px !important;
+  background-color: #434343 !important;
 }
 
 ul li span {
-  border-radius: 10px;
-  margin-top: -8px;
+  border-radius: 10px !important;
+  margin-top: -8px !important;
 }
 
 li.sidebar-tab-item.disabled {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 
 div.subject {
-  margin-top: -2px;
-  border-radius: 10px;
-  background-color: #434343;
+  margin-top: -2px !important;
+  border-radius: 10px !important;
+  background-color: #434343 !important;
 }
 
 div.nb-content.col-xs-9 {
-  border-radius: 10px;
-  background-color: gray;
-  color: white;
+  border-radius: 10px !important;
+  background-color: gray !important;
+  color: white !important;
 }
 
 div.nb-circle {
-  background-color: gray;
+  background-color: gray !important;
 }
 
 a.navbar-brand {
-  background-color: #434343;
+  background-color: #434343 !important;
 }
 
 ul li a {
-  background-color: #434343;
-  border-radius: 10px;
-  color: white;
-  margin-bottom: 3px;
+  background-color: #434343 !important;
+  border-radius: 10px !important;
+  color: white !important;
+  margin-bottom: 3px !important;
 }
 
 div.navbar-collapse.collapse {
-  background-color: #434343;
+  background-color: #434343 !important;
 }
 
 div.navbar-header {
-  background-color: #434343;
+  background-color: #434343 !important;
 }
 
 div.navbar {
-  background-color: #434343;
+  background-color: #434343 !important;
 }
 
 nav.navbar {
-  background-color: #434343;
+  background-color: #434343 !important;
 }
 
 div.row {
-  margin-bottom: 3px;
+  margin-bottom: 3px !important;
 }
 
 #layout_organizationName {
-  color: black;
+  color: black !important;
 }
 
 div.selectTanev {
-  color: black;
-  margin-left: 100px;
+  color: black !important;
+  margin-left: 100px !important;
 }
 
 div.main-footer2 {
-  background-color: #666666;
-  color: white;
+  background-color: #666666 !important;
+  color: white !important;
 }
 
 div.a {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 
 a.dropdown-toggle {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 
 ul.dropdown-menu.megamenu.row {
-  background-color: #999999;
+  background-color: #999999 !important;
 }
 
 input.k-button.k-button-icontext {
-  border-radius: 8px;
+  border-radius: 8px !important;
 }
 
 button.k-button.k-button-icontext {
-  border-radius: 5px;
-  background-color: #666666;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  border-radius: 5px !important;
+  background-color: #666666 !important;
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
 }
 
 ul.dropdown-menu {
-  background-color: #999999;
-  margin-top: -5px;
+  background-color: #999999 !important;
+  margin-top: -5px !important;
 }
 
 div.content-content {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
 }
 
 div.main-content {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 
 button.fc-prev-button.fc-button.fc-state-default.fc-corner-left {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 button.fc-next-button.fc-button.fc-state-default.fc-corner-right {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 button.fc-today-button.fc-button.fc-state-default.fc-corner-right {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 button.fc-agendaDay-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 button.fc-workWeek-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right.fc-state-active {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 button.fc-workWeekWithSaturday-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 button.fc-agendaWeek-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 button.fc-button.fc-state-default.fc-corner-left.fc-corner-right.nfs {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 th.fc-widget-header.fc-tue.fc-day-header-today {
-  background-color: #434343;
+  background-color: #434343 !important;
 }
 
 a.fc-time-grid-event.fc-v-event.fc-event.fc-start.fc-end {
-  background-color: #666666;
-  border-color: black;
-  border-width: 1.5px;
+  background-color: #666666 !important;
+  border-color: black !important;
+  border-width: 1.5px !important;
 }
 
 div.fc-title {
-  margin-top: 2px;
+  margin-top: 2px !important;
 }
 
 button.fc-workWeek-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 button.fc-button.fc-state-default.fc-corner-left.fc-corner-right.fs {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
 
 div.col-xs-12.main.faliujsagLista {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
