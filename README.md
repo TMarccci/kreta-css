@@ -25,3 +25,9 @@ https://raw.githubusercontent.com/TMarccci/kreta-css/main/agentselect.js
 https://raw.githubusercontent.com/TMarccci/kreta-css/main/site.js
 ```
 
+## To-DO
+
+- E-Ügyintézést 
+- DKT
+- Pop-UP ablakok
+- Profil beállíátsok

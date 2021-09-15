@@ -146,6 +146,11 @@ th.fc-widget-header.fc-tue.fc-day-header-today {
   background-color: #434343 !important;
 }
 
+.fc-day-header-today {
+  background-color: #434343 !important;
+  color: #fff !important;
+}
+
 a.fc-time-grid-event.fc-v-event.fc-event.fc-start.fc-end {
   background-color: #666666 !important;
   border-color: black !important;
