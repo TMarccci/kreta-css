@@ -172,3 +172,12 @@ button.fc-button.fc-state-default.fc-corner-left.fc-corner-right.fs {
 div.col-xs-12.main.faliujsagLista {
   border-radius: 10px !important;
 }
+
+hr.timeline {
+  margin-left: -10px;
+}
+
+div.timelinesphere {
+  margin-left: -10px;
+}
+
