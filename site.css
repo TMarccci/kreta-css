@@ -57,6 +57,7 @@ nav.navbar {
 
 div.row {
   margin-bottom: 3px !important;
+  border-radius: 10px !important;
 }
 
 #layout_organizationName {
@@ -87,6 +88,8 @@ li.nav-header.red {
 
 ul.dropdown-menu.megamenu.row {
   background-color: gray !important;
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
 }
 
 input.k-button.k-button-icontext {
@@ -222,7 +225,6 @@ div.k-window-titlebar.k-header {
   background-color: #434343 !important;
   border-color: #434343 !important;
   border-radius: 5px !important;
-  border-width: 10px !important;
   border-bottom-right-radius: 30px !important;
   border-bottom-left-radius: 30px !important;
 }
