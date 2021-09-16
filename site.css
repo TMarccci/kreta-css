@@ -81,8 +81,12 @@ a.dropdown-toggle {
   border-radius: 10px !important;
 }
 
+li.nav-header.red {
+  color: white !important;
+}
+
 ul.dropdown-menu.megamenu.row {
-  background-color: #999999 !important;
+  background-color: gray !important;
 }
 
 input.k-button.k-button-icontext {
@@ -97,8 +101,11 @@ button.k-button.k-button-icontext {
 }
 
 ul.dropdown-menu {
-  background-color: #999999 !important;
-  margin-top: -5px !important;
+  background-color: gray !important;
+  margin-top: -10px !important;
+  border-width: 10px !important;
+  border-color: gray !important;
+  border-radius: 10px !important;
 }
 
 div.content-content {
@@ -234,3 +241,6 @@ div.k-widget.k-panelbar {
   border-radius: 10px !important;
 }
 
+div.fc-bg2 {
+  background-color: orangered !important;
+}
