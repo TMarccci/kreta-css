@@ -29,5 +29,3 @@ https://raw.githubusercontent.com/TMarccci/kreta-css/main/site.js
 
 - E-Ügyintézést 
 - DKT
-- Pop-UP ablakok
-- Profil beállíátsok

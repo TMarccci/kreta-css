@@ -181,3 +181,56 @@ div.timelinesphere {
   margin-left: -10px !important;
 }
 
+ul.k-reset.k-tabstrip-items {
+  background-color: white !important;
+}
+
+button.k-button {
+  border-radius: 5px !important;
+  background-color: #666666 !important;
+}
+
+li.k-item.k-state-default.k-last {
+  background-color: white !important;
+  border-color: white !important;
+}
+
+li.k-item.k-state-default {
+  background-color: white !important;
+  border-color: white !important;
+}
+
+div.k-widget.k-window {
+  border-radius: 10px !important;
+  border-width: 3px !important;
+  border-color: #666666 !important;
+}
+
+span.k-window-title {
+  background-color: #434343 !important;
+  border-radius: 10px !important;
+}
+
+div.k-window-titlebar.k-header {
+  background-color: #434343 !important;
+  border-color: #434343 !important;
+  border-radius: 5px !important;
+  border-width: 10px !important;
+  border-bottom-right-radius: 30px !important;
+  border-bottom-left-radius: 30px !important;
+}
+
+a.k-window-action.k-link {
+  background-color: #434343 !important;
+  border-radius: 15px !important;
+}
+
+div.k-window-actions {
+  background-color: #434343 !important;
+  border-radius: 10px !important;
+}
+
+div.k-widget.k-panelbar {
+  border-radius: 10px !important;
+}
+
