@@ -174,10 +174,10 @@ div.col-xs-12.main.faliujsagLista {
 }
 
 hr.timeline {
-  margin-left: -10px;
+  margin-left: -10px !important;
 }
 
 div.timelinesphere {
-  margin-left: -10px;
+  margin-left: -10px !important;
 }
 
