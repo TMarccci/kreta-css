@@ -260,15 +260,3 @@ div.panel-heading {
   border-color: #434343 !important;
 }
 
-span.k-link {
-  color: white !important;
-  background-color: #666666 !important;
-  border-radius: 10px !important;
-  margin-top: 0px !important
-}
-
-li.k-item.k-state-default.k-first.k-tab-on-top.k-state-active {
-  color: white !important;
-  border-radius: 10px !important;
-  margin-top: 0px !important
-}
