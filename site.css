@@ -261,13 +261,13 @@ div.panel-heading {
 }
 
 span.k-link {
-  color: white
+  color: white !important;
 }
 
 li.k-item.k-state-default.k-first.k-tab-on-top.k-state-active {
   background-color: #434343 !important;
-  color: white;
-  border-radius: 10px;
-  text-align: start;
-  padding-top: 5px;
+  color: white !important;
+  border-radius: 10px !important;
+  text-align: start !important;
+  padding-top: 5px !important;
 }
