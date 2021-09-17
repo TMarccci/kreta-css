@@ -246,3 +246,28 @@ div.k-widget.k-panelbar {
 div.fc-bg2 {
   background-color: orangered !important;
 }
+
+button#Btn-cancel.k-button.ignore-ajaxhelper {
+  color: white !important;
+}
+
+div.panel.panel-primary {
+  border-color: #666666 !important;
+}
+
+div.panel-heading {
+  background-color: #434343 !important;
+  border-color: #434343 !important;
+}
+
+span.k-link {
+  color: white
+}
+
+li.k-item.k-state-default.k-first.k-tab-on-top.k-state-active {
+  background-color: #434343 !important;
+  color: white;
+  border-radius: 10px;
+  text-align: start;
+  padding-top: 5px;
+}

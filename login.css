@@ -63,7 +63,7 @@ div.col-sm-offset-3.col-sm-6 {
 input.k-textbox {
   border-radius: 10px !important;
   margin-bottom: 5px !important;
-  border-color: #474747;
+  border-color: #474747 !important;
 }
 
 footer div div {
