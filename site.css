@@ -263,22 +263,22 @@ span.k-link {
 }
 
 a.k-calendar k-state-hover k-header {
-  color: #fff;
-  background-color: #474747;
-  border-color: #474747;
+  color: #fff !important;
+  background-color: #474747 !important;
+  border-color: #474747 !important;
 }
 
 a.k-link.k-nav-today {
-  color: black;
+  color: black !important;
 }
 
 div.k-header {
-  background-color: #474747;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 10px;
-  padding-top: 3px;
-  border-color: #474747;
+  background-color: #474747 !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  border-radius: 10px !important;
+  padding-top: 3px !important;
+  border-color: #474747 !important;
 }
 
 span.k-label.kendoGrid-PageInfo.mustShowPagerCount {
@@ -286,39 +286,39 @@ span.k-label.kendoGrid-PageInfo.mustShowPagerCount {
 }
 
 a.k-link.k-nav-fast.k-state-hover {
-  background-color: #666666;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 10px;
-  border-color: #666666;
+  background-color: #666666 !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  border-radius: 10px !important;
+  border-color: #666666 !important;
 }
 a.k-link.k-nav-prev.k-state-hover {
-  background-color: #666666;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 10px;
-  border-color: #666666;
+  background-color: #666666 !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  border-radius: 10px !important;
+  border-color: #666666 !important;
 }
 a.k-link.k-nav-next.k-state-hover {
-  background-color: #666666;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 10px;
-  border-color: #666666;
+  background-color: #666666 !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  border-radius: 10px !important;
+  border-color: #666666 !important;
 }
 
 a.k-link {
-  color: black
+  color: black !important;
 }
 
 td.k-today {
-  background-color: #666666;
+  background-color: #666666 !important;
 }
 
 li.k-item.k-state-focused.k-state-hover {
-  background-color: #666666;
+  background-color: #666666 !important;
 }
 
 li.k-item.k-state-focused {
-  background-color: #474747;
+  background-color: #474747 !important;
 }
