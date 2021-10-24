@@ -1,4 +1,4 @@
-div.login_header {
+div.page-title {
   border-radius: 10px !important;
   background-color: #474747 !important;
   border-color: #474747 !important;
@@ -45,7 +45,7 @@ div.login_systemmessage_header {
   border-width: 3px !important;
 }
 
-button.login_button {
+button.btn-kreta {
   border-radius: 10px !important;
   background-color: #666666 !important;
   border-width: 3px !important;
@@ -72,4 +72,10 @@ footer div div {
 
 div.container.main-footer {
   margin-top: 20px !important;
+}
+
+div.alert.alert-primary {
+  background-color: #666666 !important;
+  color: white !important;
+  border-color: #474747;
 }
