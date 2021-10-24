@@ -52,6 +52,12 @@ button.btn-kreta {
   margin-bottom: -20px !important;
 }
 
+a.button.btn-kreta {
+  border-radius: 10px !important;
+  background-color: #666666 !important;
+  border-width: 3px !important;
+}
+
 div div a {
   color: black !important;
 }
