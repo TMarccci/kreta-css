@@ -77,5 +77,9 @@ div.container.main-footer {
 div.alert.alert-primary {
   background-color: #474747 !important;
   color: white !important;
-  border-color: #474747;
+  border-color: #474747 !important;
+}
+
+div.d-flex.order-1.flex-sm-row.flex-column {
+  padding-top: 45px !important;
 }
