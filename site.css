@@ -198,6 +198,7 @@ ul.k-reset.k-tabstrip-items {
 button.k-button {
   border-radius: 5px !important;
   background-color: #666666 !important;
+  color: white !important;
 }
 
 li.k-item.k-state-default.k-last {
@@ -259,4 +260,65 @@ span.k-link {
   color: black !important;
   background-color: transparent !important;
   border-radius: 10px !important;
+}
+
+a.k-calendar k-state-hover k-header {
+  color: #fff;
+  background-color: #474747;
+  border-color: #474747;
+}
+
+a.k-link.k-nav-today {
+  color: black;
+}
+
+div.k-header {
+  background-color: #474747;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  padding-top: 3px;
+  border-color: #474747;
+}
+
+span.k-label.kendoGrid-PageInfo.mustShowPagerCount {
+  color: white
+}
+
+a.k-link.k-nav-fast.k-state-hover {
+  background-color: #666666;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  border-color: #666666;
+}
+a.k-link.k-nav-prev.k-state-hover {
+  background-color: #666666;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  border-color: #666666;
+}
+a.k-link.k-nav-next.k-state-hover {
+  background-color: #666666;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  border-color: #666666;
+}
+
+a.k-link {
+  color: black
+}
+
+td.k-today {
+  background-color: #666666;
+}
+
+li.k-item.k-state-focused.k-state-hover {
+  background-color: #666666;
+}
+
+li.k-item.k-state-focused {
+  background-color: #474747;
 }
