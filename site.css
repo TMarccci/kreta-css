@@ -419,3 +419,8 @@ li#cc1ebff8-d3be-4cad-aa5e-e125cf8f8456 {
 span.k-header {
   border-color: #474747  !important;
 }
+
+td.atlag.kozepre {
+  font-weight: bold !important;
+  font-size: 13px !important;
+}
