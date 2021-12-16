@@ -1,50 +1,50 @@
 .layout-topbar {
-    background-color: #434343 !important;
+	background-color: #434343 !important;
 }
-  
+
 .ui-table-caption.ui-widget-header.ng-star-inserted {
-    background-color: #434343 !important;
- }
-  
+	background-color: #434343 !important;
+}
+
 body.normal-contrast {
-    --primaryColor: #424242 !important;
-    --panelPrimaryColor: #f0f0f0 !important;
-    --primaryDarkColor: #666b6d !important;
-    --primaryLightColor: #797b7c !important;
-    --primaryLightestColor: #eceff1 !important;
-    --primaryTextColor: #fff !important;
-    --accentColor: #808080 !important;
-    --accentDarkColor: #434343 !important;
-    --accentLightColor: #666666 !important;
-    --accentTextColor: #fff !important;
-    --light-blue: #747d81 !important;
-    --disabled-background: #f1f1f1 !important;
-    --textarea-border: #bdbdbd !important;
-    --icon-green: #96ff96 !important;
-    --icon-red: #ff9696 !important;
-    --table-hover-color: #c5f6c7 !important;
-    --button-blue: #4a545a !important;
-    --button-blue-hover: #4a5155 !important;
-    --secondary-button-hover: #e5e9ec !important;
-    --scrollbar-grey: #aaa !important;
-    --splash-bg: #37474f !important;
-    --splash-color1: #4285f4 !important;
-    --splash-color2: #de3e35 !important;
-    --splash-color3: #f7c223 !important;
-    --splash-color4: #1b9a59 !important;
-    --splash-color5: #4285f4 !important;
-    --widget-overlay-bg: rgba(88,87,92,0.8) !important;
-    --tooltip-bg: #323232 !important;
-    --tooltip-color: #000 !important;
-    --editor-header-bg: #e8e8e8 !important;
-    --editor-header-color: #444 !important;
-    --sidebarBgColor: #636363 !important;
+	--primaryColor: #424242 !important;
+	--panelPrimaryColor: #f0f0f0 !important;
+	--primaryDarkColor: #666b6d !important;
+	--primaryLightColor: #797b7c !important;
+	--primaryLightestColor: #eceff1 !important;
+	--primaryTextColor: #fff !important;
+	--accentColor: #808080 !important;
+	--accentDarkColor: #434343 !important;
+	--accentLightColor: #666666 !important;
+	--accentTextColor: #fff !important;
+	--light-blue: #747d81 !important;
+	--disabled-background: #f1f1f1 !important;
+	--textarea-border: #bdbdbd !important;
+	--icon-green: #96ff96 !important;
+	--icon-red: #ff9696 !important;
+	--table-hover-color: #c5f6c7 !important;
+	--button-blue: #4a545a !important;
+	--button-blue-hover: #4a5155 !important;
+	--secondary-button-hover: #e5e9ec !important;
+	--scrollbar-grey: #aaa !important;
+	--splash-bg: #37474f !important;
+	--splash-color1: #4285f4 !important;
+	--splash-color2: #de3e35 !important;
+	--splash-color3: #f7c223 !important;
+	--splash-color4: #1b9a59 !important;
+	--splash-color5: #4285f4 !important;
+	--widget-overlay-bg: rgba(88, 87, 92, 0.8) !important;
+	--tooltip-bg: #323232 !important;
+	--tooltip-color: #000 !important;
+	--editor-header-bg: #e8e8e8 !important;
+	--editor-header-color: #444 !important;
+	--sidebarBgColor: #636363 !important;
 }
 
 .layout-sidebar {
-    background-image: none !important;
+	background-image: none !important;
 }
 
 .layout-main {
-    background-color: lightgray !important;
+	background-color: lightgray !important;
 }

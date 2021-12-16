@@ -1,4 +1,4 @@
-# Kréta CSS - Egyedi Design
+# Kréta CSS - Újra "design"-olt változat
 ## _Szükséges: Violentmonkey_
 
 [![N|Solid](https://violentmonkey.github.io/static/vm-6437e4e5a400c6eff1c23ead4d549b0a.png)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
@@ -9,6 +9,8 @@
 - Szürke téma
 - Szerepkörválasztónál háttérkép
 - Letisztultabb kinézet
+- E-Ügyintézést 
+- Bugok :D
 
 
 ## Installation
@@ -23,9 +25,13 @@ Az URL lent található majd. Ezt 3x kell ismételned. Mind a három linkkel.
 https://raw.githubusercontent.com/TMarccci/kreta-css/main/login.js
 https://raw.githubusercontent.com/TMarccci/kreta-css/main/agentselect.js
 https://raw.githubusercontent.com/TMarccci/kreta-css/main/site.js
+https://raw.githubusercontent.com/TMarccci/kreta-css/main/eugyintezes.js
 ```
 
 ## To-DO
 
-- E-Ügyintézést 
 - DKT
+
+## Fejlesztőtől
+
+Ha valami hibát találnál vedd fel velem a kapcsolatot!

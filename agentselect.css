@@ -1,46 +1,46 @@
 body {
-    background-position: center !important;
-    background-repeat: no-repeat !important;
-    background-color: #666666 !important;
-    background-size: cover !important;
-  }
-  
-  div.Box-Icon {
-    border-radius: 10px !important;
-  }
-  
-  div.Box-Text {
-    border-radius: 10px !important;
-    margin-top: -15px !important;
-  }
-  
-  div.Box-Icon.DktIcon {
-    border-radius: 10px !important;
-  }
-  
-  div.Box-Item {
-    border-radius: 12px !important;
-    box-shadow: 5px 5px 5px -2px rgb(56 56 56) !important;
-  }
-  
-  a.Box-Item {
-    border-radius: 12px !important;
-    box-shadow: 5px 5px 5px -2px rgb(56 56 56) !important;
-  }
-  
-  img.UserImg {
-    margin-right: 5px !important;
-  }
-  
-  div.UserName {
-    margin-right: 10px !important;
-  }
-  
-  div.IntezmenyNev {
-    color: black !important;
-  }
-  
-  div.Box-Container {
-    margin-top: -200px !important;
-    box-shadow: none !important;
-  }
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-color: #666666 !important;
+	background-size: cover !important;
+}
+
+div.Box-Icon {
+	border-radius: 10px !important;
+}
+
+div.Box-Text {
+	border-radius: 10px !important;
+	margin-top: -15px !important;
+}
+
+div.Box-Icon.DktIcon {
+	border-radius: 10px !important;
+}
+
+div.Box-Item {
+	border-radius: 12px !important;
+	box-shadow: 5px 5px 5px -2px rgb(56 56 56) !important;
+}
+
+a.Box-Item {
+	border-radius: 12px !important;
+	box-shadow: 5px 5px 5px -2px rgb(56 56 56) !important;
+}
+
+img.UserImg {
+	margin-right: 5px !important;
+}
+
+div.UserName {
+	margin-right: 10px !important;
+}
+
+div.IntezmenyNev {
+	color: black !important;
+}
+
+div.Box-Container {
+	margin-top: -200px !important;
+	box-shadow: none !important;
+}

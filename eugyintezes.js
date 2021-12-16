@@ -3,9 +3,8 @@
 // @namespace   Violentmonkey Scripts/4
 // @match       https://eugyintezes.e-kreta.hu/*
 // @run-at      document-start
-// @version     1.0
+// @version     1.1
 // @author      TMarccci
-// @description 9/14/2021, 9:29:46 PM
 // @resource   IMPORTED_CSS https://raw.githubusercontent.com/TMarccci/kreta-css/main/eugyintezes.css
 // @grant      GM_getResourceText
 // @grant      GM_addStyle
