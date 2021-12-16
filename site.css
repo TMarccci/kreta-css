@@ -424,3 +424,12 @@ td.atlag.kozepre {
   font-weight: bold !important;
   font-size: 13px !important;
 }
+
+p {
+  background-color: #808080 !important;
+  border-radius: 10px !important;
+}
+
+#usermenu_timer {
+  background-color: transparent !important;
+}
