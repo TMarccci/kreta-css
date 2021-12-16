@@ -13,7 +13,7 @@
 - Bugok :D
 
 
-## Installation
+## Telepítés
 
 Telepítsd a Violentmonkey bővítményt: https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
 
