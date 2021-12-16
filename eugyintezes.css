@@ -37,5 +37,13 @@ body.normal-contrast {
     --tooltip-color: #000 !important;
     --editor-header-bg: #e8e8e8 !important;
     --editor-header-color: #444 !important;
+    --sidebarBgColor: #636363 !important;
 }
 
+.layout-sidebar {
+    background-image: none !important;
+}
+
+.layout-main {
+    background-color: lightgray !important;
+}
