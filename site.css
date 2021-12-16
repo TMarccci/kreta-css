@@ -20,8 +20,6 @@ div.subject {
 
 div.nb-content.col-xs-9 {
   border-radius: 10px  !important;
-  background-color: gray  !important;
-  color: white  !important;
 }
 
 div.nb-circle {
@@ -423,13 +421,4 @@ span.k-header {
 td.atlag.kozepre {
   font-weight: bold !important;
   font-size: 13px !important;
-}
-
-p {
-  background-color: #808080 !important;
-  border-radius: 10px !important;
-}
-
-#usermenu_timer {
-  background-color: transparent !important;
 }
