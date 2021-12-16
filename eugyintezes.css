@@ -7,6 +7,7 @@
  }
   
 body.normal-contrast {
+    --primaryColor: #424242 !important;
     --panelPrimaryColor: #f0f0f0 !important;
     --primaryDarkColor: #666b6d !important;
     --primaryLightColor: #797b7c !important;
