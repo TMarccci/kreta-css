@@ -36,3 +36,9 @@ https://raw.githubusercontent.com/TMarccci/kreta-css/main/eugyintezes.js
 ## Fejlesztőtől
 
 Ha valami hibát találnál vedd fel velem a kapcsolatot!
+
+## Előnézet
+
+![Login](https://raw.githubusercontent.com/TMarccci/kreta-css/main/Preview/Login.png "Login")
+![Főoldal](https://raw.githubusercontent.com/TMarccci/kreta-css/main/Preview/Home.png "Főoldal")
+![E-Ügyintézés](https://raw.githubusercontent.com/TMarccci/kreta-css/main/Preview/E-Discuss.png "E-Ügyintézés")

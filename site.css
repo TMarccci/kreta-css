@@ -7,6 +7,7 @@ nav.navbar {
 
 #layout_organizationName {
 	color: black !important;
+	text-align: left !important;
 }
 
 ul.dropdown-menu.megamenu.row {
@@ -259,7 +260,8 @@ div.row {
 }
 div.selectTanev {
 	color: black !important;
-	margin-left: 100px !important;
+	margin-left: 0px !important;
+	text-align: left !important;
 }
 
 div.main-footer2 {
