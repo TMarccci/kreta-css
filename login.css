@@ -88,3 +88,9 @@ div.alert.alert-primary {
 div.d-flex.order-1.flex-sm-row.flex-column {
 	padding-top: 45px !important;
 }
+
+.col.card.card-kreta {
+    border-radius: 10px !important;
+    margin-top: -15px !important;
+}
+
