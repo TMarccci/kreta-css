@@ -35,10 +35,16 @@ https://raw.githubusercontent.com/TMarccci/kreta-css/main/eugyintezes.js
 
 ## Fejlesztőtől
 
+Mivel a krétát a fejlesztők gyakran frissítik és ugyanekkor az osztályokat és az id-kat is cserélgetni szokták hibák előfordulhatnak!
 Ha valami hibát találnál vedd fel velem a kapcsolatot!
 
 ## Előnézet
 
+### Belépési Felület
 ![Login](https://raw.githubusercontent.com/TMarccci/kreta-css/main/Preview/Login.png "Login")
+
+### Főoldal
 ![Főoldal](https://raw.githubusercontent.com/TMarccci/kreta-css/main/Preview/Home.png "Főoldal")
+
+### E-Ügyintézés
 ![E-Ügyintézés](https://raw.githubusercontent.com/TMarccci/kreta-css/main/Preview/E-Discuss.png "E-Ügyintézés")
