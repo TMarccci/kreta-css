@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://idp.e-kreta.hu/*
 // @run-at      document-start
-// @version     1.1
+// @version     1.1.1
 // @author      TMarccci
 // @resource   IMPORTED_CSS https://raw.githubusercontent.com/TMarccci/kreta-css/main/login.css
 // @grant      GM_getResourceText
