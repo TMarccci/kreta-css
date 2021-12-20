@@ -1,4 +1,5 @@
-# Kréta CSS - Újra "design"-olt változat
+# Krétához CSS - Új kinézet
+
 ## _Szükséges: Violentmonkey_
 
 [![N|Solid](https://violentmonkey.github.io/static/vm-6437e4e5a400c6eff1c23ead4d549b0a.png)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
