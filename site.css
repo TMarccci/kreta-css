@@ -137,19 +137,7 @@ li.k-item.k-state-default.k-last.k-tab-on-top.k-state-active {
 	padding-left: 15px !important;
 }
 
-li.k-item.k-state-default.k-first {
-	padding-left: 3px !important;
-	border-style: solid !important;
-	border-radius: 10px !important;
-	border-color: gray !important;
-	border-width: 3px !important;
-	margin-top: 10px !important;
-	margin-left: 3px !important;
-	width: 190px !important;
-	background-color: lightgray !important;
-}
-
-li.k-item.k-state-default.k-last {
+li.k-item.k-state-default.k-first, li.k-item.k-state-default.k-last {
 	padding-left: 3px !important;
 	border-style: solid !important;
 	border-radius: 10px !important;
@@ -172,17 +160,6 @@ li.sidebar-tab-item.disabled {
 
 li.nav-header.red {
 	color: white !important;
-}
-
-li.k-item.k-state-default.k-last {
-	padding-left: 3px !important;
-	background-color: white !important;
-	border-color: white !important;
-}
-
-li.k-item.k-state-default {
-	background-color: white !important;
-	border-color: white !important;
 }
 
 ul li a {
