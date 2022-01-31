@@ -72,7 +72,7 @@ a.fc-time-grid-event.fc-v-event.fc-event.fc-start.fc-end {
 	border-width: 1.5px !important;
 }
 
-a.k-calendar k-state-hover k-header {
+a.k-calendar .k-state-hover .k-header {
 	color: #fff !important;
 	background-color: #474747 !important;
 	border-color: #474747 !important;
